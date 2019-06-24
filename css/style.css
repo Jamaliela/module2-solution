@@ -23,10 +23,14 @@ h1{
 	border: 1px solid black;
 	background-color: #FF33BE;
 	position: relative;
+	top: -15px;
+    width: 33.33%;
+    left: 66.7%;
+    text-align: center;
 }
 #second{
 	border: 1px solid black;
-    background-color: #B12E1A;
+    background-color: #A5889C;
     width: 90%;
     margin-right: auto;
     margin-left: auto;
@@ -34,12 +38,16 @@ h1{
 }
 #box2{
 	border: 1px solid black;
-	background-color: #A5889C;
+	background-color: #B12E1A;
 	position: relative;
+	top: -15px;
+    width: 33.33%;
+    left: 66.7%;
+    text-align: center;
 }
 #third{
 	border: 1px solid black;
-    background-color: #D3C217;
+    background-color: #A5889C;
     width: 90%;
     margin-right: auto;
     margin-left: auto;
@@ -47,8 +55,12 @@ h1{
 }
 #box3{
 	border: 1px solid black;
-	background-color: #A5889C;
+	background-color: #D3C217;
 	position: relative;
+	top: -15px;
+    width: 33.33%;
+    left: 66.7%;
+    text-align: center;
 }
 /*** Desktop ***/
 @media (min-width: 992px){
