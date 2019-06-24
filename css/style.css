@@ -1,13 +1,12 @@
 /*** Base Styles ***/
 *{
 	box-sizing: border-box;
-	
     padding: 0;
+    margin-top: 15px;
 }
 h1{
 	text-align: center;
 	margin-bottom: 20px;
-	margin-top: 15px;
 }
 .row{
 	width:100%;
