@@ -14,7 +14,6 @@ h1{
 #first {
 	border: 1px solid black;
     background-color: #A5889C;
-    width: 90%;
     margin-right: auto;
     margin-left: auto;
     position: relative;
@@ -31,7 +30,6 @@ h1{
 #second{
 	border: 1px solid black;
     background-color: #A5889C;
-    width: 90%;
     margin-right: auto;
     margin-left: auto;
     position: relative;
@@ -48,7 +46,6 @@ h1{
 #third{
 	border: 1px solid black;
     background-color: #A5889C;
-    width: 90%;
     margin-right: auto;
     margin-left: auto;
     position: relative;
@@ -63,7 +60,8 @@ h1{
     text-align: center;
 }
 p{
-	margin-top: 10%;
+	margin-top: 7%;
+	padding: 2%
 }
 /*** Desktop ***/
 @media (min-width: 992px){
