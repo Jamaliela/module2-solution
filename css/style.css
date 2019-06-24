@@ -1,1 +1,30 @@
+/*** Base Styles ***/
 
+
+
+
+/*** Desktop ***/
+@media (min-width: 992px){
+	.col-lg-4{
+		float: left;
+		width: 33.33%;
+
+	}
+}
+
+
+/*** Tablet ***/
+@media (min-width: 768px) and (max-width: 991px){
+	.col-md-6{
+		float: left;
+		width: 50%;
+	}
+}
+
+/*** Mobile ***/
+@media (max-width: 767px){
+	.col-sm-12{
+		float: left;
+		width: 100%;
+	}
+}
