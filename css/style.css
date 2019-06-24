@@ -1,6 +1,23 @@
 /*** Base Styles ***/
-
-
+*{
+	box-sizing: border-box;
+}
+h1{
+	text-align: center;
+	margin-bottom: 15px;
+	margin-top: 10pc;
+}
+.row{
+	width:100%;
+}
+#first {
+	border: 1px solid black;
+    background-color: #FF33BE;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+   font-family: Helvetica;
+}
 
 
 /*** Desktop ***/
